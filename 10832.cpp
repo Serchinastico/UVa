@@ -6,8 +6,6 @@
 
 using namespace std;
 
-typedef pair<double, int> myPair;
-
 struct myVector {
 	int x;
 	int y;
